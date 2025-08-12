@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.yourcompany.yourapp",
+        "appID": "YYTV62Z9U8.com.rapida.snapspliit",
         "paths": [ "/share/*" ]
       }
     ]
